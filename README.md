@@ -1,4 +1,4 @@
-### Hi there! I'm Rui 👋
+![Banner Image](./assets/img/github-banner.jpg)
 
 
 
